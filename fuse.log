@@ -1,0 +1,21 @@
+Running: C:\Xilinx\14.4\ISE_DS\ISE\bin\nt\unwrapped\fuse.exe -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -lib secureip -o X:/Desktop/VGATest/deb_test_isim_beh.exe -prj X:/Desktop/VGATest/deb_test_beh.prj work.deb_test work.glbl 
+ISim P.49d (signature 0x8ef4fb42)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Analyzing Verilog file "X:/Desktop/VGATest/debouncer.v" into library work
+Analyzing Verilog file "X:/Desktop/VGATest/deb_test.v" into library work
+Analyzing Verilog file "C:/Xilinx/14.4/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+Completed static elaboration
+Fuse Memory Usage: 179880 KB
+Fuse CPU Usage: 296 ms
+Compiling module debouncer
+Compiling module deb_test
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 3 Verilog Units
+Built simulation executable X:/Desktop/VGATest/deb_test_isim_beh.exe
+Fuse Memory Usage: 185356 KB
+Fuse CPU Usage: 312 ms
