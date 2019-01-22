@@ -9,7 +9,7 @@ Kevin Arseneault - Presentations and video
 
 David Kirk - Verilog (front end)
 
-Addison Dolido Verilog (back end)
+Addison Dolido - Verilog (back end)
 
 Sameer Hiremath - Report
 
